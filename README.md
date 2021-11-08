@@ -20,7 +20,7 @@
   
   - [ES6소개 Vue개요 인스턴스, 디렉티브(11/04)](https://github.com/ssafy6-study/Summary/issues/1)
   - [ES6 문법(11/05)](https://github.com/ssafy6-study/Summary/issues/2)
-  - [CSS렌더링 이벤트 컴포넌트3(11/06)](https://github.com/ssafy6-study/Summary/issues/3)
+  - [CSS렌더링 이벤트 컴포넌트(11/06)](https://github.com/ssafy6-study/Summary/issues/3)
 
 ## 🚀스터디 진행 방법
 
