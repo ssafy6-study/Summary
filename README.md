@@ -22,6 +22,7 @@
   - [ES6 문법(11/05)](https://github.com/ssafy6-study/Summary/issues/2)
   - [CSS렌더링 이벤트 컴포넌트(11/08)](https://github.com/ssafy6-study/Summary/issues/3)
   - [Vue axios 라우트 템플릿(11/09)](https://github.com/ssafy6-study/Summary/issues/4)
+  - [Vue axios 라우트 복습(11/10)](https://github.com/ssafy6-study/Summary/issues/5)
 
 ## 🚀스터디 진행 방법
 
