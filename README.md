@@ -24,6 +24,7 @@
   - [Vue axios 라우트 템플릿(11/09)](https://github.com/ssafy6-study/Summary/issues/4)
   - [Vue axios 라우트 복습(11/10)](https://github.com/ssafy6-study/Summary/issues/5)
   - [Vue CLI(11/11)](https://github.com/ssafy6-study/Summary/issues/6) 
+  - [Vue-CLI활용(11/12)](https://github.com/ssafy6-study/Summary/issues/7) 
 
 ## 🚀스터디 진행 방법
 
