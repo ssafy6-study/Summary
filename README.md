@@ -25,6 +25,7 @@
   - [Vue axios 라우트 복습(11/10)](https://github.com/ssafy6-study/Summary/issues/5)
   - [Vue CLI(11/11)](https://github.com/ssafy6-study/Summary/issues/6) 
   - [Vue-CLI활용(11/12)](https://github.com/ssafy6-study/Summary/issues/7) 
+  - [Vuex 활용(11/15)](https://github.com/ssafy6-study/Summary/issues/8)
 
 ## 🚀스터디 진행 방법
 
